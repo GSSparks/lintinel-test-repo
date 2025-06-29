@@ -1,0 +1,11 @@
+rules:
+  DockerfileBestPractices: true
+  TerraformModuleVersioning: true
+  YAMLLinter: true
+  MissingDotfiles: true
+  PythonLinter: true
+
+ai:
+  enabled: true
+  fixes: true
+  tone: helpful

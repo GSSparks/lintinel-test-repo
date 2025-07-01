@@ -1,1 +1,3 @@
-def foo(): print("bad formatting")
+# script.py
+
+if x > 5: y = 10

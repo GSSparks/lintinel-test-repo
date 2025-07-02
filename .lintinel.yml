@@ -1,5 +1,3 @@
----
-
 rules:
   DockerfileBestPractices: true
   TerraformModuleVersioning: true
